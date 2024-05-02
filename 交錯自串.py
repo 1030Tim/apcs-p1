@@ -1,6 +1,7 @@
 n = int(input())#input
 count = 10000
 arr = [ ]
+
 for i in range(n):
     k = list(map(str,input()))
     k_sort = k[:]
