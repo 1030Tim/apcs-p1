@@ -1,3 +1,4 @@
+#https://zerojudge.tw/ShowProblem?problemid=c461
 a,b,c = [int(_) for _ in input().split()]
 
 a = bool(a)
