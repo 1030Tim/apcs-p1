@@ -8,13 +8,10 @@ for  i in range(n):
     c = [a,b]
     acc.append(k)
     arr.append(c)
-
-n_max = max(acc)
-n_min = min(acc)
+    
 indax_arr  = acc[:]
 indax_arr.sort()
 indax_arr = indax_arr[-2]
-count = n_min
 indax = 0
 for i in range(n):
     if acc[i] == indax_arr:
