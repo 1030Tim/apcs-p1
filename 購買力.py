@@ -1,3 +1,4 @@
+#先搞懂題目在問什麼不撋不會對
 n,d = [int(_)for _ in input().split()]
 count = 0
 b = 0
