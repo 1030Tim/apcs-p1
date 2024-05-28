@@ -9,9 +9,6 @@ for i in range(n):
     for j in range(1,len(k1)):
         if (k1[j-1]!=k1[j]):count+=1
 
-
-
-    
     if (count<count_d):
         count_d = count
         d = k
