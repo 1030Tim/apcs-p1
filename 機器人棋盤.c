@@ -1,3 +1,4 @@
+//https://zerojudge.tw/ShowProblem?problemid=e287
 #include<stdio.h>
 int main(){
     int n,m;
